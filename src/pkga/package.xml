@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pkga</name>
+  <version>0.0.0</version>
+  <description>The pkga package</description>
+
+  <maintainer email="tkostas@todo.todo">tkostas</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>pkgb</build_depend>
+
+</package>
